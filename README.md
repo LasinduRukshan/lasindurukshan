@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-NPM%20 Pro User%20%E2%86%92-gray.svg?colorA=DC2853&colorB=FF002B&style=for-the-badge"/>
     </a>
 <p align="center">
- <img width="1000px" src="https://raw.githubusercontent.com/LasinduRukshan/lasindurukshan/main/x.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="150px" src="https://raw.githubusercontent.com/LasinduRukshan/lasindurukshan/main/x.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 
 
