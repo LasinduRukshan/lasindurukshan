@@ -30,6 +30,6 @@
  <img width="150px" src="https://raw.githubusercontent.com/LasinduRukshan/lasindurukshan/main/x.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
- <img width="2000px" src="https://telegra.ph/file/318aeec5bd49f0e65d8c7.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="500px" src="https://telegra.ph/file/8a784f301397e5a494632.jpg" align="center" alt="GitHub Readme Stats" />
 </p>
 
